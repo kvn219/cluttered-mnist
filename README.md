@@ -6,6 +6,8 @@ The Spatial Transformer Network [1] allows the spatial manipulation of data with
 
 ![](assets/spatial_transformer.png)
 
+Experiment 1: ![Baseline w/ 10 epochs](spatial-transformer-network/Clutter%20MNIST%20Baseline.ipynb)
+
 
 ## Resources
 
