@@ -14,3 +14,5 @@ Experiment 1: [Baseline w/ 10 epochs](spatial-transformer-network/Clutter%20MNIS
 [1] Jaderberg, Max, et al. "Spatial Transformer Networks." arXiv preprint arXiv:1506.02025 (2015)
 
 [2] https://github.com/tensorflow/models/tree/master/transformer
+
+[3] https://github.com/daviddao/spatial-transformer-tensorflow
