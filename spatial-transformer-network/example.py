@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 # %% Create a batch of three images (1600 x 1200)
 # %% Image retrieved from:
 # %% https://raw.githubusercontent.com/skaae/transformer_network/master/cat.jpg
-im = ndimage.imread('cat.jpg')
+im = ndimage.imread('./data/cat.jpg')
 im = im / 255.
 im = im.reshape(1, 1200, 1600, 3)
 im = im.astype('float32')
@@ -55,7 +55,8 @@ with tf.variable_scope('spatial_transformer_0'):
 
 # %% Run session
 sess = tf.Session()
-sess.run(tf.initialize_all_variables())
+sess.run(tf.global_variables_initializer())
 y = sess.run(h_trans, feed_dict={x: batch})
 
-# plt.imshow(y[0])
+plt.imshow(y[0])
+plt.show()
