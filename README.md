@@ -1,6 +1,8 @@
 # cluttered-mnist
 Experiments on cluttered mnist dataset with Tensorflow.
 
+![](assets/Transformers.jpg)
+
 ## The Spatial Transformer Network [2]
 The Spatial Transformer Network [1] allows the spatial manipulation of data within the network.
 
