@@ -10,7 +10,7 @@ The Spatial Transformer Network [1] allows the spatial manipulation of data with
 
 # Experiments
 
-1. [Baseline w/ 10 epochs](spatial-transformer-network/Clutter%20MNIST%20Baseline.ipynb)
+1. [Baseline w/ 10 epochs](spatial-transformer-network/Clutter%20MNIST%20Example.ipynb)
 
 
 ## Resources
