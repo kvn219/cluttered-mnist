@@ -8,6 +8,10 @@ The Spatial Transformer Network [1] allows the spatial manipulation of data with
 
 ![](assets/spatial_transformer.png)
 
+# Blog post
+
+[Spatial Transformer Networks with Tensorflow - WonksThisWay](https://medium.com/wonks-this-way/spatial-transformer-networks-with-tensorflow-2eaed0374a16#.tfiq0fpdj)
+
 # Experiments
 
 1. [Annotated Example with 20 epochs](spatial-transformer-network/Clutter_MNIST_Example.ipynb)
@@ -20,3 +24,5 @@ The Spatial Transformer Network [1] allows the spatial manipulation of data with
 [2] https://github.com/tensorflow/models/tree/master/transformer
 
 [3] https://github.com/daviddao/spatial-transformer-tensorflow
+
+[4] https://github.com/skaae/recurrent-spatial-transformer-code
