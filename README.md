@@ -10,7 +10,7 @@ The Spatial Transformer Network [1] allows the spatial manipulation of data with
 
 # Experiments
 
-1. [Annotated Example with 20 epochs](Clutter_MNIST_Example.ipynb)
+1. [Annotated Example with 20 epochs](spatial-transformer-network/Clutter_MNIST_Example.ipynb)
 
 
 ## Resources
